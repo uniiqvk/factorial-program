@@ -1,4 +1,3 @@
-python
 import math
 
 def get_positive_integer():
